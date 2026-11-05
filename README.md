@@ -24,10 +24,6 @@
 ### `$ ./telemetry --live`
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=ali-maruf&hide_border=true&background=050a05&ring=39ff14&fire=ff2bd6&currStreakLabel=39ff14&sideLabels=8fd88a&currStreakNum=eaffea&sideNums=eaffea&dates=1f6f2a&stroke=1f6f2a" alt="streak">
-</p>
-
-<p align="center">
   <img width="100%" src="https://ghchart.rshah.org/39ff14/ali-maruf" alt="contribution grid">
 </p>
 
