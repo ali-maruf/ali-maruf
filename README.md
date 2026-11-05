@@ -15,6 +15,10 @@
 
 <p align="center"><code>cd</code> → <a href="https://github.com/ali-maruf/pashro"><code>~/pashro</code></a> &nbsp;·&nbsp; <a href="https://github.com/ali-maruf/bachao"><code>~/bachao</code></a> &nbsp;·&nbsp; <a href="https://dhakahype.com"><code>~/dhakahype</code></a></p>
 
+### `$ ./cam --feed=office`
+
+<img src="scene.svg" alt="Animated night scene: working at three monitors and a laptop on the 12th floor, neon blub sign, photo frames, a black cat, and the city skyline" width="100%">
+
 ### `$ ./stack --icons`
 
 <p align="center">
