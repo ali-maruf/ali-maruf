@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ali-maruf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=640&lines=%3E+in+business+since+2020;%3E+building+3+startups+from+zero;%3E+architecting+systems+that+scale;%3E+automating+everything+repetitive;%3E+shipping+real+products+for+real+users;%3E+status%3A+coming+asap" alt="typing"></a>
+  <a href="https://github.com/ali-maruf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=640&lines=%3E+in+business+since+2020;%3E+ecommerce+%2B+websites+%2B+automation;%3E+made+millions+of+robux+on+roblox;%3E+building+3+startups+from+zero;%3E+leveraging+AI+to+ship+10x+faster;%3E+shipping+real+products+for+real+users;%3E+status%3A+coming+asap" alt="typing"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### `$ ./stack --icons`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,vite,php,mysql,nodejs,vercel,git,figma&perline=12&theme=dark" alt="stack">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,vite,php,mysql,nodejs,vercel,git,figma,lua,ps,ai,ae,pr&perline=9&theme=dark" alt="stack">
 </p>
 
 ### `$ ./telemetry --live`
